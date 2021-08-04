@@ -1,3 +1,5 @@
+[中文電子書 -- 從 RISC-V 處理器到 UNIX 作業系統](https://github.com/riscv2os/riscv2os/wiki)
+
 # RISC-V RV32I[MA] emulator with ELF support
 
 `rv32emu` is an instruction set architecture (ISA) emulator implementing the 32 bit RISC-V processor model.
